@@ -63,7 +63,7 @@ body {
     border-radius: 5px;
 }
 
-@media (max-width: 600px) {
+@media(max-width: 600px) {
     .code-container {
         flex-wrap: wrap;
     }
